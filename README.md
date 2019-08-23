@@ -1,4 +1,3 @@
 # TIcTacToe
 
-It's simple Android application.
-It's a multiplayer game.
+It's simple Android multiplayer tictactoe game.
